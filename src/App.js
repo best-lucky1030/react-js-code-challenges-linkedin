@@ -6,7 +6,7 @@ import DarkMode from './02-dark-mode/DarkMode';
 function App() {
   return (
     <div className="App">
-      <ColorRenderer />
+      {/* <ColorRenderer /> */}
       <DarkMode />
     </div>
   );
