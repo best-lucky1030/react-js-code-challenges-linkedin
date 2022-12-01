@@ -50,3 +50,12 @@ button {
   color: #171717;
   background-color: white;
 }
+
+.dog-pics {
+  margin-top: 50px;
+}
+
+.dog-pics img {
+  width: 100%;
+  height: auto;
+}
