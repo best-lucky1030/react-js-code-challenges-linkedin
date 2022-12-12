@@ -7,6 +7,7 @@ import DogPics from './04-dog-pics/DogPics';
 import ScoreKeeper from './05-score-keeper/ScoreKeeper';
 import ToggleWindowEvent from './06-add-window-event/ToggleWindowEvent';
 import ColorPicker from './07-color-picker/ColorPicker';
+import PixelArt from './08-pixel-art/PixelArt';
 
 function App() {
   return (
@@ -17,7 +18,8 @@ function App() {
       {/* <DogPics /> */}
       {/* <ScoreKeeper /> */}
       {/* <ToggleWindowEvent /> */}
-      <ColorPicker />
+      {/* <ColorPicker /> */}
+      <PixelArt />
     </div>
   );
 }
